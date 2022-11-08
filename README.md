@@ -5,7 +5,7 @@
 <!--<img  height="150em" src="https://github-readme-stats.vercel.app/api?username=
 Leolira1808&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=Andrezza-Machado&show_icons=true&theme=blue-green"/>
-<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrezza-Machado&layout=compact&langs_count=16&theme=blue-green"/>
+<img align="right" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrezza-Machado&layout=compact&langs_count=16&theme=blue-green"/>
 </div>
 <br>
 
