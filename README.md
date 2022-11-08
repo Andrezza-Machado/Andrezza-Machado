@@ -14,7 +14,7 @@ Leolira1808&show_icons=true&theme=dracula&include_all_commits=true&count_private
  <div style="display: inline_block"><br>
   
   <img align="left" height="250" alt="coding-time" src="code.gif">
-  <h1 align="center">Melhores Tecnologias 🧑🏽‍💻</h1>
+  <h1 align="center">Melhores Tecnologias 💻</h1>
   
   <img align="center" alt="css" height="30" weight="40" mg src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />          
   <img align="center" alt="java" height="30" weight="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
